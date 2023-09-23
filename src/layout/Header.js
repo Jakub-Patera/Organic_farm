@@ -8,10 +8,7 @@ const Header = ({ header }) => {
   switch (header) {
     case 1:
       return <Header1 />;
-    case 2:
-      return <Header2 />;
-    case 3:
-      return <Header3 />;
+   
 
     default:
       return <DefaultHeader />;
@@ -43,46 +40,53 @@ const SearchBtn = () => {
 };
 const DaskTopMenu = () => (
   <ul className="navigation clearfix d-none d-lg-flex">
-    <li className="dropdown">
-      <a href="#">Home</a>
-      <ul>
+    <li className="">
+      <a href="#">
+
+      </a>
         <Home />
+      <ul>
       </ul>
       <div className="dropdown-btn">
-        <span className="fas fa-chevron-down" />
+       
       </div>
     </li>
     <li className="dropdown">
-      <a href="#">pages</a>
+      <a href="#">
+
+        <Portfolio />
+      </a>
+      
+    
+      <div className="dropdown-btn">
+        <span className="" />
+      </div>
+    </li>
+    <li className="dropdown">
+      <a href="#">
+
+        <Blog />
+      </a>
+      
+      
+      <div className="dropdown-btn">
+        <span className="" />
+      </div>
+    </li>
+    <li className="dropdown">
+      <a href="#">
+
+        <Shop />
+      </a>
+     
+      <div className="dropdown-btn">
+        <span className="" />
+      </div>
+    </li>
+    <li className="dropdown">
+      <a href="#">Other</a>
       <ul>
         <PagesDasktop />
-      </ul>
-      <div className="dropdown-btn">
-        <span className="fas fa-chevron-down" />
-      </div>
-    </li>
-    <li className="dropdown">
-      <a href="#">portfolio</a>
-      <ul>
-        <Portfolio />
-      </ul>
-      <div className="dropdown-btn">
-        <span className="fas fa-chevron-down" />
-      </div>
-    </li>
-    <li className="dropdown">
-      <a href="#">blog</a>
-      <ul>
-        <Blog />
-      </ul>
-      <div className="dropdown-btn">
-        <span className="fas fa-chevron-down" />
-      </div>
-    </li>
-    <li className="dropdown">
-      <a href="#">shop</a>
-      <ul>
-        <Shop />
       </ul>
       <div className="dropdown-btn">
         <span className="fas fa-chevron-down" />

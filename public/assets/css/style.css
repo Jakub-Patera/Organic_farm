@@ -2810,9 +2810,11 @@ h1, h2, h3, h4, h5, h6, blockquote, .tag-coulds a {
       .main-header .logo-outer {
         display: none; } }
   .main-header .logo {
+    max-height: 120px;
     z-index: 9;
     padding: 2px 0;
     position: relative; }
+    
   .main-header.menu-absolute .header-upper {
     position: absolute; }
   .main-header.fixed-header .header-upper {

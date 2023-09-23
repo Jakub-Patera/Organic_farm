@@ -5,7 +5,7 @@ import Layout from "../src/layout/Layout";
 const BlogGrid = () => {
   return (
     <Layout>
-      <PageBanner pageName={"Blog Grid"} />
+      <PageBanner pageName={"Blog"} />
       <section className="news-page-section rel z-1 py-130 rpy-100">
         <div className="container">
           <div className="row justify-content-center blog-grid">

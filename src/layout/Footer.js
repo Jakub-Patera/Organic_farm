@@ -170,13 +170,13 @@ const DefaultFooter = () => (
         </div>
       </div>
       <div className="copyright-area pt-25 pb-10">
-        <p>Copyright © 2022 MunFirm. All Rights Reserved.</p>
+        <p>Copyright © 2023 JakubPatera. All Rights Reserved.</p>
         <ul className="footer-menu">
           <li>
             <Link href="/contact">Setting &amp; Privacy</Link>
           </li>
           <li>
-            <Link href="/faqs">
+            <Link href="/">
               <a>Faqs</a>
             </Link>
           </li>

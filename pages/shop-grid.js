@@ -5,7 +5,7 @@ import Layout from "../src/layout/Layout";
 const ShopGrid = () => {
   return (
     <Layout>
-      <PageBanner pageName={"Shop Grid"} />
+      <PageBanner pageName={"Shop"} />
       <section className="shop-page rel z-1 pt-120 rpt-90 pb-130 rpb-100">
         <div className="container">
           <div className="shop-shorter rel z-3 pt-10 mb-40 wow fadeInUp delay-0-2s">
