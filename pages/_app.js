@@ -8,7 +8,7 @@ function MyApp({ Component, pageProps }) {
     <Fragment>
       <Head>
         <title>
-          Munfirm - Agriculture &amp; Organic Food React NextJS Template
+          Munfirm - Agriculture &amp; Organic Food
         </title>
         {/* Favicon Icon */}
         <link
