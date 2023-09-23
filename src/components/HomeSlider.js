@@ -21,7 +21,7 @@ export const HomeSlider1 = () => {
           <div className="row align-items-center">
             <div className="col-lg-6">
               <div className="slider-content">
-                <div className="sub-title mb-20">Welcome to Munfirm</div>
+                <div className="sub-title mb-20">Welcome to</div>
                 <h1>Organic Foods &amp; Vegetables</h1>
                 <h6>25 Years of experience in agriculture farming</h6>
                 <div className="slider-btns mt-30">
@@ -105,7 +105,7 @@ export const HomeSlider1 = () => {
             </div>
             <div className="col-lg-6">
               <div className="slider-content">
-                <div className="sub-title mb-20">Welcome to Munfirm</div>
+                <div className="sub-title mb-20">Welcome to</div>
                 <h1>Organic Foods &amp; Vegetables</h1>
                 <h6>25 Years of experience in agriculture farming</h6>
                 <div className="slider-btns mt-30">
@@ -181,7 +181,7 @@ export const HomeSlider2 = () => {
           <div className="row align-items-center">
             <div className="col-lg-6">
               <div className="slider-content">
-                <div className="sub-title mb-20">Welcome to Munfirm</div>
+                <div className="sub-title mb-20">Welcome to</div>
                 <h1>Organic Foods &amp; Vegetables</h1>
                 <div className="slider-btns mt-30">
                   <Link href="/shop-grid">
@@ -223,7 +223,7 @@ export const HomeSlider2 = () => {
           <div className="row align-items-center">
             <div className="col-lg-6">
               <div className="slider-content">
-                <div className="sub-title mb-20">Welcome to Munfirm</div>
+                <div className="sub-title mb-20">Welcome to </div>
                 <h1>Organic Foods &amp; Vegetables</h1>
                 <div className="slider-btns mt-30">
                   <Link href="/about">
@@ -285,7 +285,7 @@ export const HomeSlider3 = () => {
           <div className="row align-items-center">
             <div className="col-xl-5">
               <div className="slider-content">
-                <div className="sub-title mb-20">Welcome to Munfirm</div>
+                <div className="sub-title mb-20">Welcome to</div>
                 <h1>Organic Food &amp; Vegetables</h1>
                 <p>
                   On the other hand we denounce with righteou indignation and
@@ -335,7 +335,7 @@ export const HomeSlider3 = () => {
             </div>
             <div className="col-xl-5">
               <div className="slider-content">
-                <div className="sub-title mb-20">Welcome to Munfirm</div>
+                <div className="sub-title mb-20">Welcome to</div>
                 <h1>Organic Food &amp; Vegetables</h1>
                 <p>
                   On the other hand we denounce with righteou indignation and
